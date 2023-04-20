@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kohwdev](https://github.com/kohwdev)
-
 - 📫 How to reach me **woonsta13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
