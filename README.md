@@ -5,7 +5,7 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="woonkoh1" />
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **React, JavaScript, TypeScript**
 
 - 📫 How to reach me **woonsta13@gmail.com**
 
