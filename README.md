@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **woonsta13@gmail.com**
 
-<img src="https://www.codewars.com/users/kohw88/badges/large">
+<img src="https://www.codewars.com/users/kohw88/badges/micro">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
