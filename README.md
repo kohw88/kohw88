@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Woon</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Software Engineer | Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/woonkoh1" target="blank"><img src="https://img.shields.io/twitter/follow/woonkoh1?logo=twitter&style=for-the-badge" alt="woonkoh1" /></a> </p>
 
