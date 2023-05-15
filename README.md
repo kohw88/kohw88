@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **woonsta13@gmail.com**
 
+https://www.codewars.com/users/kohw88/badges/large
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/woonkoh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="woonkoh1" height="30" width="40" /></a>
